@@ -13,6 +13,10 @@ jobs:
     steps:
       - name: Check out this repository for building
         uses: actions/checkout@v3
+      - name: Creating .json file with IDT Credentials
+        run: echo "$IDT_CREDENTIALS" > test_secret_idt_credentials.json
+        env:
+          IDT_CREDENTIALS: ${{ secrets.IDT_CREDENTIALS }}
       - name: Execute distribution build
         uses: jguillen15/iGEM-actions@gsoc2024
         with:
