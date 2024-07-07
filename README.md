@@ -1,4 +1,4 @@
-#  Package: RBS Collection
+# Package: RBS Collection
 
 Collection of most used RBSs
 
