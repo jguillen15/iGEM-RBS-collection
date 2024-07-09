@@ -24,6 +24,7 @@ jobs:
         uses: jguillen15/iGEM-actions@gsoc2024
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
+          secret-input: ${{ secrets.IDT_CREDENTIALS }}
         
 
   
