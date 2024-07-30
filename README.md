@@ -1,6 +1,6 @@
 # Package: RBS Collection
 
-Collection of most used RBSs2
+Collection of most used RBSs
 
 ### Summary:
 
