@@ -28,5 +28,17 @@ Collection of most used RBSs
 - BCD8 (ribosome_entry_site) in pSB1C5
 - SpoVG (ribosome_entry_site) in pSB1C5
 - BBa_Z0262 (ribosome_entry_site) in pSB1C5
-Synthesizable.Synthesizable.Synthesizable.Synthesizable.Synthesizable.Synthesizable.Synthesizable.Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.
+Synthesizable.
+Synthesizable.
+Synthesizable.
+Synthesizable.
+Synthesizable.
+Synthesizable.
+Synthesizable.
+Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.
+Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.
+Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.
+Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.
+Synthesizable.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.The overall GC content of the sequence is 44.8%. Solution: Redesign to increase the GC content above 45%.
+
 _Note: automatically generated from package Excel and sequence files; do not edit_
