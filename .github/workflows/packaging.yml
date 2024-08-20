@@ -16,8 +16,6 @@ jobs:
       - name: Creating .json file with IDT Credentials
         run: |
           echo "$IDT_CREDENTIALS" > test_secret_idt_credentials.json
-          FILE_PATH=$(realpath ./test_secret_idt_credentials.json)
-          echo "File path: $FILE_PATH"
         env:
           IDT_CREDENTIALS: ${{ secrets.IDT_CREDENTIALS }}
       - name: Execute distribution build
