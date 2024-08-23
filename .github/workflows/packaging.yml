@@ -19,7 +19,7 @@ jobs:
         env:
           IDT_CREDENTIALS: ${{ secrets.IDT_CREDENTIALS }}
       - name: Execute distribution build
-        uses: jguillen15/iGEM-actions@gsoc2024
+        uses: jguillen15/iGEM-actions@gsoc_new
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           secret-input: ${{ secrets.IDT_CREDENTIALS }}
